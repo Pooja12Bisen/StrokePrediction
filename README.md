@@ -43,6 +43,7 @@ Build an accurate predictive model and derive health insights to support early s
 
 
 💡 Use Cases
+
 🏥 Healthcare Systems — Early diagnosis and intervention
 
 ⚕️ Clinical Research — Understanding key risk factors
@@ -50,6 +51,8 @@ Build an accurate predictive model and derive health insights to support early s
 🧑‍⚕️ Medical Tools — Enhancing predictive healthcare applications
 
 🧬 Public Health Policy — Informing prevention campaigns
+
+
 
 
 🤝 Let's Connect!
