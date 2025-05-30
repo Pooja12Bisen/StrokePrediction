@@ -45,14 +45,14 @@ Build an accurate predictive model and derive health insights to support early s
 💡 Use Cases
 🏥 Healthcare Systems — Early diagnosis and intervention
 
-🤝 Let's Connect!
-👨‍💻 Linkdin Profile : https://www.linkedin.com/in/pooja-bisen-313238263/
-📧 Email: bisenpooja441801@gmail.com
-
-
 ⚕️ Clinical Research — Understanding key risk factors
 
 🧑‍⚕️ Medical Tools — Enhancing predictive healthcare applications
 
 🧬 Public Health Policy — Informing prevention campaigns
+
+
+🤝 Let's Connect!
+👨‍💻 Linkdin Profile : https://www.linkedin.com/in/pooja-bisen-313238263/
+📧 Email: bisenpooja441801@gmail.com
 
